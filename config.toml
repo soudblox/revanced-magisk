@@ -1,11 +1,11 @@
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
-included-patches = "'Add splash animation' 'Enable song search' 'MaterialYou' 'Premium heading'"
-excluded-patches = "'Alternative thumbnails' 'Ambient mode switch' 'Custom branding icon YouTube' 'Custom branding name YouTube' 'Disable auto captions' 'Disable haptic feedback'"
+# [YouTube]
+#apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+#patches-source = "inotia00/revanced-patches"
+#integrations-source = "inotia00/revanced-integrations"
+#rv-brand = "inotia00 ReVanced"
+#included-patches = "'Add splash animation' 'Enable song search' 'MaterialYou' 'Premium heading'"
+#excluded-patches = "'Alternative thumbnails' 'Ambient mode switch' 'Custom branding icon YouTube' 'Custom branding name YouTube' 'Disable auto captions' 'Disable haptic feedback'"
 
 [com.google.android.apps.recorder]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/google-recorder/"
-
+version = "4.2.20230801.561280372"
